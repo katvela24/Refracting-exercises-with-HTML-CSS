@@ -33,7 +33,7 @@ CREDITS:
 
 While this job was peformed with care by yours truly, I cannot let the assistance of my classmates, AI, learning assistants, TAs, and professor go unnoticed.
 
-Link: https://www.smashingmagazine.com/2008/08/7-principles-of-clean-and-optimized-css-code/
+Link to outside help for shorthand & other refracting tips: https://www.smashingmagazine.com/2008/08/7-principles-of-clean-and-optimized-css-code/
 
 I look forward to your feedback. Be brutal.
 

@@ -6,7 +6,7 @@ DESCRIPTION:
 
 The purpose of this challenge is to refactor the base code for a made-up company called Horiseon.
 
-THE ACCEPTANCE CRITERIA:
+ACCEPTANCE CRITERIA:
 
 There are 5 things to clean-up in both the HTML & CSS:
 1.  Logical Structure to HTML elements
